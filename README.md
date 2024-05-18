@@ -26,6 +26,7 @@ The scripts likely rely on Python libraries for data manipulation and analysis. 
 - numpy
 - matplotlib
 - seaborn
+- scikit learn
   
 ## Installation
 You can install these libraries using the pip command in your terminal (e.g., pip install pandas numpy matplotlib seaborn).
